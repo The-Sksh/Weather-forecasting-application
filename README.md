@@ -23,7 +23,7 @@ Additional description about the project and its features.
 - NPM
 - WEBPACK
 - BOOTSTRAP
-- GITHUB ACTIONS
+  
 
 Run tests: 
 
